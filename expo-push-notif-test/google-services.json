@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246277888642",
+    "firebase_url": "https://saxons-notifications.firebaseio.com",
+    "project_id": "saxons-notifications",
+    "storage_bucket": "saxons-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246277888642:android:81598384537886df",
+        "android_client_info": {
+          "package_name": "com.ewican.saxons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246277888642-konau56e4257ckjvjgb24i1irahbhilt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqv5mbjxt4E0yuVIOW1MQBn3FZSM_7_uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246277888642-konau56e4257ckjvjgb24i1irahbhilt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
